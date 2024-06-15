@@ -1,9 +1,4 @@
-Based on the information provided, here’s a suggested README file structure for your GitHub repository that contains multiple CUDA C programs:
-
----
-
-# CUDA C Programs Repository
-
+# CUDA PARALLEL C PROGRAMMING
 This repository contains various CUDA C programs demonstrating parallel computing techniques using NVIDIA's CUDA platform.
 
 ## Programs Overview
