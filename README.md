@@ -1,4 +1,4 @@
-# CUDA PARALLEL C PROGRAMMING
+# CUDA PARALLEL C PROGRAMMING || Minnu
 This repository contains various CUDA C programs demonstrating parallel computing techniques using NVIDIA's CUDA platform.
 
 ## Programs Overview
